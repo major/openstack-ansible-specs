@@ -184,7 +184,7 @@ Primary assignee:
   Major Hayden (LP: rackerhacker, IRC: mhayden)
 
 Other contributors:
-  Cody Bunch (LP: <TBA>, IRC: <TBA>)
+  Cody Bunch (LP: cody-bunch, IRC: e-vad)
 
 Work items
 ----------
